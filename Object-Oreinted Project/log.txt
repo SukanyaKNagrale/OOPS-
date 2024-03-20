@@ -1,0 +1,9 @@
+2024-03-19 16:28:11 - User registered: SukanyaJayesh
+2024-03-19 16:28:41 - Welcome to online Shopping, SukanyaJayesh!
+2024-03-19 20:38:51 - User registered: qwer
+2024-03-19 20:43:20 - User registered: Sukanya
+2024-03-19 20:53:01 - User registered: Sukanya
+2024-03-19 20:53:30 - Login failed for user: Sukanya
+2024-03-19 20:54:09 - Welcome to online Shopping, Sukanya!
+2024-03-19 20:55:15 - Cash payment done.
+2024-03-19 20:55:15 - Order placed successfully.
