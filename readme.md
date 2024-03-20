@@ -42,7 +42,7 @@ To run the shopping project, follow these steps:
 
 ## Contributors
 
-This project was created by [Your Name]. Contributions are welcome through pull requests.
+This project was created by Sukanya. Contributions are welcome through pull requests.
 
 ## License
 
